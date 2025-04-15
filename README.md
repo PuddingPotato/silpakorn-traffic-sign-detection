@@ -46,12 +46,10 @@ Model experiments were tracked using **Comet ML**, allowing for:
 
 ## 🛠 Tech Stack
 
-| Tool         | Purpose                            |
-|--------------|-------------------------------------|
-| YOLOv8       | Object detection model              |
-| Roboflow     | Annotation, augmentation, export    |
-| Comet ML     | Training monitoring and analytics   |
-| OpenCV       | Frame extraction from video         |
+- YOLOv8 | Object detection model
+- Roboflow | Annotation, augmentation, export
+- Comet ML | Training monitoring and analytics
+- OpenCV | Frame extraction from video
 
 ---
 
