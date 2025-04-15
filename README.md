@@ -14,7 +14,8 @@ This project focuses on detecting campus-specific traffic signs using computer v
 
 Below are links to the dataset and model results **from this project**:
 
-- 📦 **Dataset on Roboflow Universe (Created by Me):** 
+- 📦 **Dataset on Roboflow Universe (Created by Me):**
+   
   [🔗 View My Dataset](https://universe.roboflow.com/project-traffic-sign-detection/traffic-sign-detection-67tod)
 
 - 📁 **Model Results on Google Drive (Trained Models from This Project):**  
