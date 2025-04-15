@@ -10,6 +10,18 @@ This project focuses on detecting campus-specific traffic signs using computer v
 
 ---
 
+## 🔗 Project Resources
+
+Below are links to the dataset and model results **from this project**:
+
+- 📦 **Dataset on Roboflow Universe (Created by Me):**
+  [🔗 View My Dataset →]([https://universe.roboflow.com/your-dataset-link](https://universe.roboflow.com/project-traffic-sign-detection/traffic-sign-detection-67tod))
+
+- 📁 **Model Results on Google Drive (Trained Models from This Project):**  
+  [🔗 View My Model Outputs →](https://drive.google.com/drive/folders/1YvFpNQmwjvlRPpupJLrQF4AcKA-t_azF?usp=sharing)
+
+---
+
 ## 📸 Data Collection & Preparation
 
 - Captured on-campus video footage containing traffic signs.
